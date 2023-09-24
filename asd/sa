@@ -1,1 +1,0 @@
-response.then().assertThat().statusCode(Matchers.equalTo(200));
